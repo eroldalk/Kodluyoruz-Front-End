@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\bin\Debug\net6.0\Csharp_homework_3.exe
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\bin\Debug\net6.0\Csharp_homework_3.deps.json
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\bin\Debug\net6.0\Csharp_homework_3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\bin\Debug\net6.0\Csharp_homework_3.dll
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\bin\Debug\net6.0\ref\Csharp_homework_3.dll
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\bin\Debug\net6.0\Csharp_homework_3.pdb
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.dll
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\ref\Csharp_homework_3.dll
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.pdb
+C:\Users\Lenovo\Desktop\Csharp\Csharp_homework_3\Csharp_homework_3\obj\Debug\net6.0\Csharp_homework_3.genruntimeconfig.cache
