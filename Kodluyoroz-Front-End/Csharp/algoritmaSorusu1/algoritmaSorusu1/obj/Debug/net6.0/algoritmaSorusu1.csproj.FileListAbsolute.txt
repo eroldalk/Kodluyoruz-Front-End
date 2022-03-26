@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\bin\Debug\net6.0\algoritmaSorusu1.exe
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\bin\Debug\net6.0\algoritmaSorusu1.deps.json
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\bin\Debug\net6.0\algoritmaSorusu1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\bin\Debug\net6.0\algoritmaSorusu1.dll
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\bin\Debug\net6.0\ref\algoritmaSorusu1.dll
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\bin\Debug\net6.0\algoritmaSorusu1.pdb
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.dll
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\ref\algoritmaSorusu1.dll
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.pdb
+C:\Users\Lenovo\Desktop\Csharp\algoritmaSorusu1\algoritmaSorusu1\obj\Debug\net6.0\algoritmaSorusu1.genruntimeconfig.cache
