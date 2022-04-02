@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\bin\Debug\net6.0\Üçgenhesaplama.exe
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\bin\Debug\net6.0\Üçgenhesaplama.deps.json
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\bin\Debug\net6.0\Üçgenhesaplama.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\bin\Debug\net6.0\Üçgenhesaplama.dll
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\bin\Debug\net6.0\ref\Üçgenhesaplama.dll
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\bin\Debug\net6.0\Üçgenhesaplama.pdb
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.dll
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\ref\Üçgenhesaplama.dll
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.pdb
+C:\Users\Lenovo\Desktop\Csharp\Üçgenhesaplama\Üçgenhesaplama\obj\Debug\net6.0\Üçgenhesaplama.genruntimeconfig.cache
