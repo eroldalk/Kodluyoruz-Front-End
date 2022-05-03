@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Daire\Daire\bin\Debug\net6.0\Daire.exe
+C:\Users\Lenovo\Desktop\Daire\Daire\bin\Debug\net6.0\Daire.deps.json
+C:\Users\Lenovo\Desktop\Daire\Daire\bin\Debug\net6.0\Daire.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Daire\Daire\bin\Debug\net6.0\Daire.dll
+C:\Users\Lenovo\Desktop\Daire\Daire\bin\Debug\net6.0\ref\Daire.dll
+C:\Users\Lenovo\Desktop\Daire\Daire\bin\Debug\net6.0\Daire.pdb
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.dll
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\ref\Daire.dll
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.pdb
+C:\Users\Lenovo\Desktop\Daire\Daire\obj\Debug\net6.0\Daire.genruntimeconfig.cache
