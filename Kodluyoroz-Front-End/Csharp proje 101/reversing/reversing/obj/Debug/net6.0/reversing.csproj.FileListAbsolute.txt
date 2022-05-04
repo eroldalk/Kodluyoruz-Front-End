@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\reversing\reversing\bin\Debug\net6.0\reversing.exe
+C:\Users\Lenovo\Desktop\reversing\reversing\bin\Debug\net6.0\reversing.deps.json
+C:\Users\Lenovo\Desktop\reversing\reversing\bin\Debug\net6.0\reversing.runtimeconfig.json
+C:\Users\Lenovo\Desktop\reversing\reversing\bin\Debug\net6.0\reversing.dll
+C:\Users\Lenovo\Desktop\reversing\reversing\bin\Debug\net6.0\ref\reversing.dll
+C:\Users\Lenovo\Desktop\reversing\reversing\bin\Debug\net6.0\reversing.pdb
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.dll
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\ref\reversing.dll
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.pdb
+C:\Users\Lenovo\Desktop\reversing\reversing\obj\Debug\net6.0\reversing.genruntimeconfig.cache
