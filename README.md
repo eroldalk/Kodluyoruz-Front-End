@@ -1,2 +1,2 @@
-# Kodluyoruz-Front-End
-patika.dev ödevleri
+Patika.dev
+Bu repo patika dev eğitimlerindeki ödevleri projeleri içermekterdir.
