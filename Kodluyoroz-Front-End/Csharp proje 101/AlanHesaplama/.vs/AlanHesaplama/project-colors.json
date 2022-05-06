@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adf67d8b-dc54-458a-9e89-d53572d912c7": {
+      "ProjectGuid": "adf67d8b-dc54-458a-9e89-d53572d912c7",
+      "DisplayName": "AlanHesaplama",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "02154da3-cfac-4a0d-91c2-5019df8b2d5d": {
+      "ProjectGuid": "02154da3-cfac-4a0d-91c2-5019df8b2d5d",
+      "DisplayName": "AlanHesaplama",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
