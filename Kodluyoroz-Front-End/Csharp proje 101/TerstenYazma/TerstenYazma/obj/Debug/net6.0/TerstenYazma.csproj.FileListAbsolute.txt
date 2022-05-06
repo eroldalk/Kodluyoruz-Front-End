@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\bin\Debug\net6.0\TerstenYazma.exe
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\bin\Debug\net6.0\TerstenYazma.deps.json
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\bin\Debug\net6.0\TerstenYazma.runtimeconfig.json
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\bin\Debug\net6.0\TerstenYazma.dll
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\bin\Debug\net6.0\ref\TerstenYazma.dll
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\bin\Debug\net6.0\TerstenYazma.pdb
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.dll
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\ref\TerstenYazma.dll
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.pdb
+C:\Users\Lenovo\Desktop\TerstenYazma\TerstenYazma\obj\Debug\net6.0\TerstenYazma.genruntimeconfig.cache
