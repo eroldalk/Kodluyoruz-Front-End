@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\bin\Debug\net6.0\İntegerİkili.exe
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\bin\Debug\net6.0\İntegerİkili.deps.json
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\bin\Debug\net6.0\İntegerİkili.runtimeconfig.json
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\bin\Debug\net6.0\İntegerİkili.dll
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\bin\Debug\net6.0\ref\İntegerİkili.dll
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\bin\Debug\net6.0\İntegerİkili.pdb
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.dll
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\ref\İntegerİkili.dll
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.pdb
+C:\Users\Lenovo\Desktop\İntegerİkili\İntegerİkili\obj\Debug\net6.0\İntegerİkili.genruntimeconfig.cache
