@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\bin\Debug\net6.0\Mutlak-Kare.exe
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\bin\Debug\net6.0\Mutlak-Kare.deps.json
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\bin\Debug\net6.0\Mutlak-Kare.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\bin\Debug\net6.0\Mutlak-Kare.dll
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\bin\Debug\net6.0\ref\Mutlak-Kare.dll
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\bin\Debug\net6.0\Mutlak-Kare.pdb
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.dll
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\ref\Mutlak-Kare.dll
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.pdb
+C:\Users\Lenovo\Desktop\Mutlak-Kare\Mutlak-Kare\obj\Debug\net6.0\Mutlak-Kare.genruntimeconfig.cache
