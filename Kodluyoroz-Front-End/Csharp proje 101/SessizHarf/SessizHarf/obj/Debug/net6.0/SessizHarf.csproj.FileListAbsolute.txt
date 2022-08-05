@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.exe
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.deps.json
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.dll
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\bin\Debug\net6.0\ref\SessizHarf.dll
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.pdb
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.dll
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\ref\SessizHarf.dll
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.pdb
+C:\Users\Lenovo\Desktop\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.genruntimeconfig.cache
