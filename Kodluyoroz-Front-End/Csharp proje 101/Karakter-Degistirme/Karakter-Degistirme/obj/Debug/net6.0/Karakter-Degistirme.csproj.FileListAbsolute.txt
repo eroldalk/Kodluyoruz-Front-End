@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.exe
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.deps.json
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.dll
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\ref\Karakter-Degistirme.dll
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\bin\Debug\net6.0\Karakter-Degistirme.pdb
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.dll
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\ref\Karakter-Degistirme.dll
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.pdb
+C:\Users\Lenovo\Desktop\Karakter-Degistirme\Karakter-Degistirme\obj\Debug\net6.0\Karakter-Degistirme.genruntimeconfig.cache
