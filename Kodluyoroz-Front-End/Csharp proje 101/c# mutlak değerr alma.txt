@@ -1,0 +1,13 @@
+using System;
+class Program
+{
+ static void Main()
+ {
+ int sayi;
+ Console.Write("Bir sayı giriniz:");
+ int.TryParse(Console.ReadLine(), out sayi);
+ int mutlak = Math.Abs(sayi);
+ Console.WriteLine("Girilen sayının mutlak değeri:" + mutlak);
+ Console.ReadLine();
+ }
+}
