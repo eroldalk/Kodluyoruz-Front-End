@@ -1,0 +1,23 @@
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\Project13-Barcode Generator.exe
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\Project13-Barcode Generator.deps.json
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\Project13-Barcode Generator.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\Project13-Barcode Generator.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\ref\Project13-Barcode Generator.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\Project13-Barcode Generator.pdb
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\IronBarCode.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\BarcodeStandard.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\ref\Project13-Barcode Generator.dll
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.pdb
+C:\Users\Lenovo\Desktop\Project13-Barcode-Generator-Reader\Project13-Barcode Generator\obj\Debug\net6.0\Project13-Barcode Generator.genruntimeconfig.cache
