@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lqeb0rcIwc3pShr7i2XAllzQNOzeLCysiFfuvNigWGwzspXiYx6K59SwRwV823V1h+T5tCfGyYXEGBcrQlA2Mg==",
+  "dgSpecHash": "THXqOz8fbSXUYDBWuX+YY2p39MxDz+W95UmYPaM53DYMw3fa7LKqGMfKTfT5lIKMY657aSBe18g/xNAkMnPAiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\BookStore\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

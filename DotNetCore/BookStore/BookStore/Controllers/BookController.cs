@@ -59,5 +59,59 @@ namespace BookStore.Controllers
        //     var book = BookList.Where(book => book.Id == Convert.ToInt32(id)).SingleOrDefault();
        //     return book;
        // }
+
+        //post
+        [HttpPost]
+        public IActionResult AddBook ([FromBody] Book newBook)
+        {
+            var book = BookList.SingleOrDefault(x=> x.Title == newBook.Title);
+             
+            if(book is not null)
+                return BadRequest();
+
+            BookList.Add(newBook);
+            return Ok();
+
+        }
+
+        //put
+        [HttpPut("(id)")]
+
+        public IActionResult UpdateBook(int id, [FromBody] Book UpdateBook)
+        {
+            var book = BookList.SingleOrDefault(x=> x.Id == id);
+             
+            if(book is null)
+                return BadRequest();
+
+            book.GenreId= UpdateBook.GenreId !=default ? UpdateBook.GenreId : book.GenreId;
+            book.PageCount= UpdateBook.PageCount !=default ? UpdateBook.PageCount : book.PageCount;
+            book.Publishdate= UpdateBook.Publishdate !=default ? UpdateBook.Publishdate : book.Publishdate;
+            book.Title= UpdateBook.Title !=default ? UpdateBook.Title : book.Title;
+
+            return Ok();
+
+        }
+
+       
+        [HttpDelete("id")]
+
+         public IActionResult DeleteBook(int id)   //, [FromBody] Book DeleteBook
+        {
+            var book = BookList.SingleOrDefault(x=> x.Id == id);
+             
+            if(book is null)
+                return BadRequest();
+
+            BookList.Remove(book);
+            return Ok();
+
+        }
+
+
+
+
+
+
     }
 }
