@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 using BookStore.DBOperations;
+using BookStore.BookOperations.GetBooks;
 
 namespace BookStore.Controllers
 {
@@ -50,10 +51,14 @@ namespace BookStore.Controllers
     */
         // daha doğru
         [HttpGet]
-        public List<Book> GetBooks()   
+        public IActionResult GetBooks()   
         {
-            var bookList = _context.Books.OrderBy(x => x.Id).ToList<Book>();
-            return bookList;
+            GetBooksQuery query = new GetBooksQuery(_context);
+            var result = query.Handle();
+            return Ok(result);
+
+           // var bookList = _context.Books.OrderBy(x => x.Id).ToList<Book>();
+           // return bookList;
         }
 
         [HttpGet("{id}")]
