@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using System.Linq;
 using BookStore.DBOperations;
 using BookStore.BookOperations.GetBooks;
 using BookStore.BookOperations.CreateBook;
-using static BookStore.BookOperations.CreateBook.CreateBookCommand;
 using BookStore.BookOperations.GetBookDetail;
 using BookStore.BookOperations.UpdateBook;
-using static BookStore.BookOperations.UpdateBook.UpdateBookCommand;
 using BookStore.BookOperations.DeleteBook;
+using static BookStore.BookOperations.UpdateBook.UpdateBookCommand;
+using static BookStore.BookOperations.CreateBook.CreateBookCommand;
+using AutoMapper;
 
 namespace BookStore.Controllers
 {
@@ -20,10 +19,12 @@ namespace BookStore.Controllers
     {
 
         private readonly BookStoreDbContext _context;
+        private readonly IMapper _mapper;
 
-        public BookController (BookStoreDbContext context)
+        public BookController (BookStoreDbContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
       /* 
@@ -59,7 +60,7 @@ namespace BookStore.Controllers
         [HttpGet]
         public IActionResult GetBooks()   
         {
-            GetBooksQuery query = new GetBooksQuery(_context);
+            GetBooksQuery query = new GetBooksQuery(_context, _mapper);
             var result = query.Handle();
             return Ok(result);
 
@@ -73,9 +74,9 @@ namespace BookStore.Controllers
             BookDetailViewModel result;
             try
             {
-                GetBookDetailQuery query = new GetBookDetailQuery(_context);
+                GetBookDetailQuery query = new GetBookDetailQuery(_context, _mapper);
                 query.BookId = id;
-               result = query.Handle();
+                result = query.Handle();
             }
             catch (Exception ex)
             {
@@ -99,7 +100,7 @@ namespace BookStore.Controllers
         [HttpPost]
         public IActionResult AddBook ([FromBody] CreateBookModel newBook)
         {
-            CreateBookCommand command = new CreateBookCommand(_context);
+            CreateBookCommand command = new CreateBookCommand(_context, _mapper);
             try
             {
               command.Model = newBook;
