@@ -14,7 +14,7 @@ namespace BookStore.BookOperations.CreateBook
         private readonly BookStoreDbContext _dbContext;
         private readonly IMapper _mapper;
 
-        public CreateBookCommand(BookStoreDbContext dbContext, AutoMapper.IMapper mapper)
+        public CreateBookCommand(BookStoreDbContext dbContext,IMapper mapper)
         {
             _dbContext = dbContext;
             _mapper = mapper;

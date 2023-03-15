@@ -9,6 +9,8 @@ using BookStore.BookOperations.DeleteBook;
 using static BookStore.BookOperations.UpdateBook.UpdateBookCommand;
 using static BookStore.BookOperations.CreateBook.CreateBookCommand;
 using AutoMapper;
+using FluentValidation.Results;
+using FluentValidation;
 
 namespace BookStore.Controllers
 {
@@ -104,7 +106,16 @@ namespace BookStore.Controllers
             try
             {
               command.Model = newBook;
+              CreateBookCommandValidator validator = new CreateBookCommandValidator();
+              validator.ValidateAndThrow(command);
               command.Handle();
+
+                //if (!result.IsValid)
+                //    foreach (var item in result.Errors)
+                //        Console.WriteLine("Özellik " + item.PropertyName + "- Error Message: " + item.ErrorMessage);
+                //else
+                //      command.Handle();
+
             }
             catch (Exception ex)
             {
@@ -164,6 +175,8 @@ namespace BookStore.Controllers
             {
                 DeleteBookCommand command = new DeleteBookCommand(_context);
                 command.BookId = id;
+                DeleteBookCommandValidator validator = new DeleteBookCommandValidator();
+                validator.ValidateAndThrow(command);
                 command.Handle();
             }
             catch (Exception ex)

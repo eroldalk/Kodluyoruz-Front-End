@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WbbIhuiqjN0wjRc8azoM+7tGNYV1YC4vToaALthKyqYv4+zLd1nUTV8+WUeGK/rF1hpAPJWyimNqrAo1MsKj6Q==",
+  "dgSpecHash": "sUv5lSxNL/tMZM6cErJgiudAE3vp5z+wydwDY7AhyUfrLThytt+/kNctyZmRJkc08GXySBBVU+FYGzoM/o7PFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
