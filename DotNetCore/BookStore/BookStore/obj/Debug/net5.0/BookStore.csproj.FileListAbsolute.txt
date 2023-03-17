@@ -58,7 +58,8 @@ C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5
 C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\ref\BookStore.dll
 C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Patika.Dev\DotNetCore\BookStore\BookStore\bin\Debug\net5.0\ref\BookStore.dll

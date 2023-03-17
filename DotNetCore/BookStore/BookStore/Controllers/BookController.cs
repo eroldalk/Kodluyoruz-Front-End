@@ -74,20 +74,20 @@ namespace BookStore.Controllers
         public IActionResult GetById(int id)
         {
             BookDetailViewModel result;
-            try
-            {
+            //try
+            //{
                 GetBookDetailQuery query = new GetBookDetailQuery(_context, _mapper);
                 query.BookId = id;
                 GetBookDetailQueryValidator validator = new GetBookDetailQueryValidator();
                 validator.ValidateAndThrow(query);
                 result = query.Handle();
                 
-            }
-            catch (Exception ex)
-            {
+            //}
+            //catch (Exception ex)
+            //{
 
-                return BadRequest(ex.Message);
-            }
+            //    return BadRequest(ex.Message);
+            //}
             return Ok(result);
                 //var book = _context.Books.Where(book => book.Id == id).SingleOrDefault();
                 //    return book;
@@ -106,8 +106,8 @@ namespace BookStore.Controllers
         public IActionResult AddBook ([FromBody] CreateBookModel newBook)
         {
             CreateBookCommand command = new CreateBookCommand(_context, _mapper);
-            try
-            {
+            //try
+            //{
               command.Model = newBook;
               CreateBookCommandValidator validator = new CreateBookCommandValidator();
               validator.ValidateAndThrow(command);
@@ -119,12 +119,12 @@ namespace BookStore.Controllers
                 //else
                 //      command.Handle();
 
-            }
-            catch (Exception ex)
-            {
+            //}
+            //catch (Exception ex)
+            //{
 
-                return BadRequest(ex.Message);
-            }
+            //    return BadRequest(ex.Message);
+            //}
             return Ok();
 
             //var book = _context.Books.SingleOrDefault(x=> x.Title == newBook.Title);
@@ -143,20 +143,20 @@ namespace BookStore.Controllers
 
         public IActionResult UpdateBook(int id, [FromBody] UpdateBookModel UpdateBook)
         {
-            try
-            {
+            //try
+            //{
                 UpdateBookCommand command = new UpdateBookCommand(_context);
                 command.BookId = id;
                 command.Model = UpdateBook;
                 UpdateBookCommandValidator validator = new UpdateBookCommandValidator();
                 validator.ValidateAndThrow(command);
                 command.Handle();
-            }
-            catch (Exception ex)
-            {
+            //}
+            //catch (Exception ex)
+            //{
 
-                return BadRequest(ex.Message);
-            }
+            //    return BadRequest(ex.Message);
+            //}
             return Ok();
 
             //var book = _context.Books.SingleOrDefault(x=> x.Id == id);
@@ -176,19 +176,19 @@ namespace BookStore.Controllers
          public IActionResult DeleteBook(int id)   //, [FromBody] Book DeleteBook
         {
 
-            try
-            {
+            //try
+            //{
                 DeleteBookCommand command = new DeleteBookCommand(_context);
                 command.BookId = id;
                 DeleteBookCommandValidator validator = new DeleteBookCommandValidator();
                 validator.ValidateAndThrow(command);
                 command.Handle();
-            }
-            catch (Exception ex)
-            {
+            //}
+            //catch (Exception ex)
+            //{
 
-                return BadRequest(ex.Message);
-            }
+            //    return BadRequest(ex.Message);
+            //}
             return Ok();
 
             //var book = _context.Books.SingleOrDefault(x=> x.Id == id);

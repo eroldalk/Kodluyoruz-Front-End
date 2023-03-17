@@ -21,6 +21,7 @@ namespace BookStore
             {
                 var Services = scope.ServiceProvider;
                 DataGenerator.Initiallize(Services);
+                
             }
             
             host.Run();
