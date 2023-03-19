@@ -172,7 +172,6 @@ namespace BookStore.Controllers
 
        
         [HttpDelete("id")]
-
          public IActionResult DeleteBook(int id)   //, [FromBody] Book DeleteBook
         {
 
