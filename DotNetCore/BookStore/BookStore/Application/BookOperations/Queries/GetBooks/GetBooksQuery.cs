@@ -5,6 +5,7 @@ using System.Linq;
 using BookStore.DBOperations;
 using BookStore.Common;
 using AutoMapper;
+using BookStore.Entities;
 
 namespace BookStore.BookOperations.GetBooks
 {

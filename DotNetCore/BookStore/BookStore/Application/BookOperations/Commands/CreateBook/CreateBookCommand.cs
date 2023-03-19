@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 using BookStore.DBOperations;
 using AutoMapper;
+using BookStore.Entities;
 
 namespace BookStore.BookOperations.CreateBook
 {

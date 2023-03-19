@@ -1,0 +1,1 @@
+// 50:51 ci dkda kaldım
