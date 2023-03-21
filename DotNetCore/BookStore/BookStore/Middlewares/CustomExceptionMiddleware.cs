@@ -51,7 +51,7 @@ namespace BookStore.Middlewares
             context.Response.ContentType = "application/json";
             context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
 
-            string message = "[Error]   HTTP" + context.Request.Method + " - "+ context.Response.StatusCode + " Error Message " + ex.Message + " in " + watch.Elapsed.TotalMilliseconds + " ms. ";
+            string message = "[Error]  HTTP" + context.Request.Method + " - "+ context.Response.StatusCode + " Error Message " + ex.Message + " in " + watch.Elapsed.TotalMilliseconds + " ms. ";
             _loggerService.Write(message);
 
             var result = JsonConvert.SerializeObject(new { error = ex.Message }, Formatting.None);

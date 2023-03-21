@@ -13,28 +13,12 @@ namespace BookStore.DBOperations
         {
             using (var context = new BookStoreDbContext(serviceProvider.GetRequiredService<DbContextOptions<BookStoreDbContext>>()))
             {
-                if(context.Books.Any())
-                {
-                    return;
-                }
-
-                context.Genres.AddRange
-                (
-                    new Genre
+                    if(context.Books.Any())
                     {
-                        Name = "Personel Growth"
-                    },
-                    new Genre
-                    {
-                        Name = "Science Fiction"
-                    },
-                    new Genre
-                    {
-                        Name = "Romance"
+                        return;
                     }
-                );
 
-                context.Books.AddRange( 
+                    context.Books.AddRange( 
                     new Book
                     {
                        // Id = 1,
@@ -59,6 +43,53 @@ namespace BookStore.DBOperations
                         PageCount = 540,
                         Publishdate = new DateTime(2001,12,21)
                     });
+
+
+                       context.Genres.AddRange
+                (
+                    new Genre
+                    {
+                        Name = "Personel Growth"
+                    },
+                    new Genre
+                    {
+                        Name = "Science Fiction"
+                    },
+                    new Genre
+                    {
+                        Name = "Romance"
+                    }
+                );
+
+
+
+                 context.Authors.AddRange(
+                    new Author
+                    {
+                            
+                        Name = "fatih",
+                        Surname = "mehmet",
+                        Birthday = new DateTime(2001,06,12)
+                    },
+                    new Author
+                    {
+                            
+                       Name = "ali",
+                       Surname = "lamh",
+                       Birthday = new DateTime(1920, 10, 03)
+                    },
+                    new Author
+                    {
+                            
+                        Name = "Hakan",
+                        Surname = "Adıgüzel",
+                        Birthday = new DateTime(2001,06,12)
+                    }
+                );
+
+             
+
+                
 
 
                     context.SaveChanges();
