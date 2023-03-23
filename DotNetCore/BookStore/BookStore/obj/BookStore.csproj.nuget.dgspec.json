@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj": {}
+    "c:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj": {
+    "c:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj",
+        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj",
+        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\BookStore.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\obj\\",
+        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Patika.Dev\\DotNetCore\\BookStore\\BookStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
